@@ -3,4 +3,4 @@
 ! public: true
 ! author: Z
 
-$boost=1,site=fr.legit.ng
+$boost=1,site=legit.ng
